@@ -1,3 +1,5 @@
+![screencapture-sentence-craft-quest-vercel-app-2025-04-12-22_42_59](https://github.com/user-attachments/assets/3e1c6a6c-5087-4315-bf67-8a7b2a9c8e9f)
+
 # Sentence Craft Quest
 
 A fun and interactive sentence construction game built with React, TypeScript, Tailwind CSS, shadcn-ui, and Vite! This project helps users practice language skills by filling in the blanks under time pressure, getting instant feedback on their grammar, and challenging themselves with engaging quiz rounds.
